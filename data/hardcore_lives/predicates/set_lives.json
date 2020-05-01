@@ -1,0 +1,15 @@
+{
+  "condition": "entity_properties",
+  "entity": "this",
+  "predicate": {
+    "player": {
+      "stats": [
+        {
+          "type": "minecraft:custom",
+          "stat": "minecraft:deaths",
+          "value": 0
+        }
+      ]
+    }
+  }
+}
